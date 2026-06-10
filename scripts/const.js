@@ -1,5 +1,6 @@
 const repos = [
     'Eikanya/Live2d-model',
+    'Hgguru/pgl2d',
     'guansss/pixi-live2d-display',
 ];
 
